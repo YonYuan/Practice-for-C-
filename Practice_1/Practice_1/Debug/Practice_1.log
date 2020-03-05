@@ -1,0 +1,42 @@
+﻿  Practice_Main.cpp
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_9.h(628): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(73): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(76): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(80): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(84): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(119): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(143): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(160): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(222): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(284): warning C4018: “>”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(343): warning C4018: “>”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(420): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(422): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(424): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(479): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_11.h(154): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_12.h(124): warning C4101: “cinint”: 未引用的局部变量
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_12.h(352): warning C4018: “<”: 有符号/无符号不匹配
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_12.h(358): warning C4018: “>=”: 有符号/无符号不匹配
+c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\numeric(26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\numeric(36): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(45): note: 参见对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_9.h(668): warning C4715: “priority”: 不是所有的控件路径都返回值
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_11.h(528): warning C4715: “buildMap”: 不是所有的控件路径都返回值
+f:\project_otherprogram\practice_c++\practice_1\practice_1\practice_10.h(317): warning C4715: “<lambda_3a6efefcd62560ec2f22a45524396eaf>::operator()”: 不是所有的控件路径都返回值
+  Practice_1.vcxproj -> F:\Project_OtherProgram\Practice_C++\Practice_1\Debug\Practice_1.exe

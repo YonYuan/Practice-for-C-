@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Practice_7">
+      <UniqueIdentifier>{a70b70cb-a39a-4b86-aabd-e7c935bcecff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practice_7">
+      <UniqueIdentifier>{b90be1f6-78ef-49d7-9f05-112ff140ef70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Practice_6">
+      <UniqueIdentifier>{03b31368-f7e5-4645-a384-cf91bd008a07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Practice_8">
+      <UniqueIdentifier>{6ba449de-5f82-4d24-83d6-e371feb6c6bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practice_8">
+      <UniqueIdentifier>{3013bfa8-6d95-413a-8216-efb619fc0c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Practice_9">
+      <UniqueIdentifier>{03559880-8bf1-4f89-8f4d-38fadf9b574a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practice_9">
+      <UniqueIdentifier>{519154b7-71f5-4ba3-9c64-e12917a5e874}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Practice_10">
+      <UniqueIdentifier>{9da94594-5167-403c-816e-5e6e016c5097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Practice_11">
+      <UniqueIdentifier>{db96d691-7b17-4fa1-8d6d-60a43d47c857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Practice_12">
+      <UniqueIdentifier>{4b2d71c9-45ae-4df9-8c07-73df05ef0079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practice_12">
+      <UniqueIdentifier>{ae693dfd-cdb6-4f06-b6e6-0ca4c3f25d7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Practice_13">
+      <UniqueIdentifier>{24d809ae-6644-4698-a5f6-cdd7e265515a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Practice_13">
+      <UniqueIdentifier>{b99bd817-d331-4980-b8d6-903be50145a2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>头文件\Practice_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_7.h">
+      <Filter>头文件\Practice_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_6.h">
+      <Filter>头文件\Practice_6</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen.h">
+      <Filter>头文件\Practice_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Window_mgr.h">
+      <Filter>头文件\Practice_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Example.h">
+      <Filter>头文件\Practice_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>头文件\Practice_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_8.h">
+      <Filter>头文件\Practice_8</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_9.h">
+      <Filter>头文件\Practice_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_10.h">
+      <Filter>头文件\Practice_10</Filter>
+    </ClInclude>
+    <ClInclude Include="Sales_data.h">
+      <Filter>头文件\Practice_7</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_11.h">
+      <Filter>头文件\Practice_11</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_12.h">
+      <Filter>头文件\Practice_12</Filter>
+    </ClInclude>
+    <ClInclude Include="StrBlob.h">
+      <Filter>头文件\Practice_12</Filter>
+    </ClInclude>
+    <ClInclude Include="TextQuery.h">
+      <Filter>头文件\Practice_12</Filter>
+    </ClInclude>
+    <ClInclude Include="Practice_13.h">
+      <Filter>头文件\Practice_13</Filter>
+    </ClInclude>
+    <ClInclude Include="HasPtr.h">
+      <Filter>头文件\Practice_13</Filter>
+    </ClInclude>
+    <ClInclude Include="numbered.h">
+      <Filter>头文件\Practice_13</Filter>
+    </ClInclude>
+    <ClInclude Include="Employee.h">
+      <Filter>头文件\Practice_13</Filter>
+    </ClInclude>
+    <ClInclude Include="Message.h">
+      <Filter>头文件\Practice_13</Filter>
+    </ClInclude>
+    <ClInclude Include="StrVec.h">
+      <Filter>头文件\Practice_13</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>头文件\Practice_13</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice_Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>源文件\Practice_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen.cpp">
+      <Filter>源文件\Practice_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Window_mgr.cpp">
+      <Filter>源文件\Practice_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug.cpp">
+      <Filter>源文件\Practice_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Example.cpp">
+      <Filter>源文件\Practice_7</Filter>
+    </ClCompile>
+    <ClCompile Include="Sales_data.cpp">
+      <Filter>源文件\Practice_7</Filter>
+    </ClCompile>
+    <ClCompile Include="StrBlob.cpp">
+      <Filter>源文件\Practice_12</Filter>
+    </ClCompile>
+    <ClCompile Include="TextQuery.cpp">
+      <Filter>源文件\Practice_12</Filter>
+    </ClCompile>
+    <ClCompile Include="HasPtr.cpp">
+      <Filter>源文件\Practice_13</Filter>
+    </ClCompile>
+    <ClCompile Include="numbered.cpp">
+      <Filter>源文件\Practice_13</Filter>
+    </ClCompile>
+    <ClCompile Include="Employee.cpp">
+      <Filter>源文件\Practice_13</Filter>
+    </ClCompile>
+    <ClCompile Include="Message.cpp">
+      <Filter>源文件\Practice_13</Filter>
+    </ClCompile>
+    <ClCompile Include="StrVec.cpp">
+      <Filter>源文件\Practice_13</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>源文件\Practice_13</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
